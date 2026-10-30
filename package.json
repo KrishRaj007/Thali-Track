@@ -1,0 +1,15 @@
+{
+  "name": "thalitrack-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "seed": "cd api && node ../scripts/seed.js",
+    "import-csv": "cd api && node ../scripts/import_csv.js",
+    "simulate-traffic": "cd api && node ../scripts/simulate_traffic.js",
+    "api:dev": "cd api && node --watch server.js",
+    "forecast:dev": "cd forecast && uvicorn main:app --reload --port 8000",
+    "web:dev": "cd web && npm run dev",
+    "test": "cd api && npm test"
+  }
+}
+

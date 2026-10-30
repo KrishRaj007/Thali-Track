@@ -1,0 +1,420 @@
+order_id,date,slot,dish_name,qty,unit_price,status,total
+TT-1001,2026-10-26,10:50,"Poha",1,35.00,picked_up,35
+TT-1002,2026-10-26,10:50,"Masala Dosa",1,65.00,picked_up,65
+TT-1003,2026-10-26,10:50,"Aloo Paratha",1,50.00,picked_up,50
+TT-1004,2026-10-26,10:50,"Poha",1,35.00,picked_up,35
+TT-1005,2026-10-26,10:50,"Chole Bhature",2,90.00,picked_up,180
+TT-1006,2026-10-26,10:50,"Veg Biryani",1,110.00,picked_up,110
+TT-1007,2026-10-26,10:50,"Poha",1,35.00,picked_up,35
+TT-1008,2026-10-26,10:50,"Veg Thali",1,120.00,picked_up,120
+TT-1009,2026-10-26,10:50,"Veg Biryani",2,110.00,picked_up,220
+TT-1010,2026-10-26,10:50,"Poha",1,35.00,picked_up,35
+TT-1011,2026-10-26,10:50,"Veg Biryani",2,110.00,picked_up,220
+TT-1012,2026-10-26,10:50,"Veg Biryani",2,110.00,picked_up,220
+TT-1013,2026-10-26,10:50,"Paneer Roll",1,70.00,picked_up,70
+TT-1014,2026-10-26,10:50,"Aloo Paratha",2,50.00,picked_up,100
+TT-1015,2026-10-26,10:50,"Veg Biryani",1,110.00,picked_up,110
+TT-1016,2026-10-26,10:50,"Masala Dosa",1,65.00,picked_up,65
+TT-1017,2026-10-26,10:50,"Chole Bhature",1,90.00,picked_up,90
+TT-1018,2026-10-26,10:50,"Veg Thali",1,120.00,picked_up,120
+TT-1019,2026-10-26,10:50,"Poha",1,35.00,picked_up,35
+TT-1020,2026-10-26,10:50,"Veg Biryani",1,110.00,picked_up,110
+TT-1021,2026-10-26,11:40,"Aloo Paratha",1,50.00,picked_up,50
+TT-1022,2026-10-26,11:40,"Chole Bhature",2,90.00,picked_up,180
+TT-1023,2026-10-26,11:40,"Masala Dosa",2,65.00,picked_up,130
+TT-1024,2026-10-26,11:40,"Chai",1,15.00,picked_up,15
+TT-1025,2026-10-26,11:40,"Chai",2,15.00,picked_up,30
+TT-1026,2026-10-26,11:40,"Rajma Chawal",1,80.00,picked_up,80
+TT-1027,2026-10-26,11:40,"Chai",2,15.00,picked_up,30
+TT-1028,2026-10-26,11:40,"Chai",2,15.00,picked_up,30
+TT-1029,2026-10-26,12:00,"Chole Bhature",1,90.00,picked_up,90
+TT-1030,2026-10-26,12:00,"Masala Dosa",1,65.00,picked_up,65
+TT-1031,2026-10-26,12:00,"Aloo Paratha",2,50.00,picked_up,100
+TT-1032,2026-10-26,12:00,"Rajma Chawal",1,80.00,picked_up,80
+TT-1033,2026-10-26,12:00,"Aloo Paratha",1,50.00,picked_up,50
+TT-1034,2026-10-26,12:00,"Poha",2,35.00,picked_up,70
+TT-1035,2026-10-26,12:00,"Paneer Roll",1,70.00,picked_up,70
+TT-1036,2026-10-26,12:00,"Chole Bhature",1,90.00,picked_up,90
+TT-1037,2026-10-26,12:00,"Veg Thali",1,120.00,picked_up,120
+TT-1038,2026-10-26,12:50,"Aloo Paratha",1,50.00,picked_up,50
+TT-1039,2026-10-26,12:50,"Paneer Roll",1,70.00,picked_up,70
+TT-1040,2026-10-26,12:50,"Veg Thali",1,120.00,picked_up,120
+TT-1041,2026-10-26,12:50,"Samosa (2 pc)",2,30.00,picked_up,60
+TT-1042,2026-10-26,12:50,"Samosa (2 pc)",1,30.00,picked_up,30
+TT-1043,2026-10-26,12:50,"Samosa (2 pc)",1,30.00,picked_up,30
+TT-1044,2026-10-26,12:50,"Paneer Roll",2,70.00,picked_up,140
+TT-1045,2026-10-26,12:50,"Veg Biryani",1,110.00,picked_up,110
+TT-1046,2026-10-26,12:50,"Samosa (2 pc)",1,30.00,picked_up,30
+TT-1047,2026-10-26,12:50,"Poha",1,35.00,picked_up,35
+TT-1048,2026-10-26,12:50,"Masala Dosa",2,65.00,picked_up,130
+TT-1049,2026-10-26,12:50,"Veg Thali",2,120.00,picked_up,240
+TT-1050,2026-10-26,12:50,"Veg Thali",1,120.00,picked_up,120
+TT-1051,2026-10-26,12:50,"Veg Biryani",2,110.00,picked_up,220
+TT-1052,2026-10-26,12:50,"Aloo Paratha",1,50.00,picked_up,50
+TT-1053,2026-10-26,12:50,"Rajma Chawal",2,80.00,picked_up,160
+TT-1054,2026-10-26,12:50,"Veg Biryani",2,110.00,picked_up,220
+TT-1055,2026-10-26,12:50,"Rajma Chawal",1,80.00,picked_up,80
+TT-1056,2026-10-26,12:50,"Paneer Roll",1,70.00,picked_up,70
+TT-1057,2026-10-26,13:00,"Rajma Chawal",2,80.00,picked_up,160
+TT-1058,2026-10-26,13:00,"Aloo Paratha",1,50.00,picked_up,50
+TT-1059,2026-10-26,13:00,"Veg Biryani",1,110.00,picked_up,110
+TT-1060,2026-10-26,13:00,"Paneer Roll",2,70.00,picked_up,140
+TT-1061,2026-10-26,13:00,"Rajma Chawal",1,80.00,picked_up,80
+TT-1062,2026-10-26,13:00,"Veg Biryani",1,110.00,picked_up,110
+TT-1063,2026-10-26,13:00,"Chole Bhature",2,90.00,picked_up,180
+TT-1064,2026-10-26,13:00,"Chole Bhature",1,90.00,picked_up,90
+TT-1065,2026-10-26,13:00,"Masala Dosa",2,65.00,picked_up,130
+TT-1066,2026-10-26,13:00,"Poha",1,35.00,picked_up,35
+TT-1067,2026-10-26,13:00,"Samosa (2 pc)",1,30.00,picked_up,30
+TT-1068,2026-10-26,13:00,"Masala Dosa",1,65.00,picked_up,65
+TT-1069,2026-10-26,13:00,"Chole Bhature",1,90.00,picked_up,90
+TT-1070,2026-10-26,13:00,"Veg Thali",2,120.00,picked_up,240
+TT-1071,2026-10-26,13:50,"Chai",2,15.00,picked_up,30
+TT-1072,2026-10-26,13:50,"Aloo Paratha",2,50.00,picked_up,100
+TT-1073,2026-10-26,13:50,"Samosa (2 pc)",2,30.00,picked_up,60
+TT-1074,2026-10-26,13:50,"Poha",2,35.00,picked_up,70
+TT-1075,2026-10-26,13:50,"Veg Biryani",2,110.00,picked_up,220
+TT-1076,2026-10-26,13:50,"Rajma Chawal",1,80.00,picked_up,80
+TT-1077,2026-10-26,13:50,"Poha",1,35.00,picked_up,35
+TT-1078,2026-10-26,13:50,"Samosa (2 pc)",2,30.00,picked_up,60
+TT-1079,2026-10-26,13:50,"Masala Dosa",1,65.00,picked_up,65
+TT-1080,2026-10-26,13:50,"Veg Thali",1,120.00,picked_up,120
+TT-1081,2026-10-26,13:50,"Veg Biryani",1,110.00,picked_up,110
+TT-1082,2026-10-26,13:50,"Aloo Paratha",2,50.00,picked_up,100
+TT-1083,2026-10-26,13:50,"Veg Thali",1,120.00,picked_up,120
+TT-1084,2026-10-26,13:50,"Masala Dosa",1,65.00,picked_up,65
+TT-1085,2026-10-26,13:50,"Veg Biryani",1,110.00,picked_up,110
+TT-1086,2026-10-26,13:50,"Masala Dosa",2,65.00,picked_up,130
+TT-1087,2026-10-26,13:50,"Masala Dosa",2,65.00,picked_up,130
+TT-1088,2026-10-26,13:50,"Rajma Chawal",2,80.00,picked_up,160
+TT-1089,2026-10-26,14:20,"Poha",2,35.00,picked_up,70
+TT-1090,2026-10-26,14:20,"Chole Bhature",2,90.00,picked_up,180
+TT-1091,2026-10-26,14:20,"Veg Biryani",1,110.00,picked_up,110
+TT-1092,2026-10-26,14:20,"Paneer Roll",2,70.00,picked_up,140
+TT-1093,2026-10-26,14:20,"Chole Bhature",2,90.00,picked_up,180
+TT-1094,2026-10-26,14:20,"Poha",2,35.00,picked_up,70
+TT-1095,2026-10-26,14:20,"Aloo Paratha",2,50.00,picked_up,100
+TT-1096,2026-10-26,14:20,"Masala Dosa",1,65.00,picked_up,65
+TT-1097,2026-10-26,14:20,"Veg Biryani",2,110.00,picked_up,220
+TT-1098,2026-10-26,14:20,"Chole Bhature",2,90.00,picked_up,180
+TT-1099,2026-10-26,14:20,"Poha",1,35.00,picked_up,35
+TT-1100,2026-10-26,14:20,"Veg Thali",1,120.00,picked_up,120
+TT-1101,2026-10-26,14:20,"Samosa (2 pc)",1,30.00,picked_up,30
+TT-1102,2026-10-26,14:20,"Veg Thali",2,120.00,picked_up,240
+TT-1103,2026-10-26,14:20,"Rajma Chawal",1,80.00,picked_up,80
+TT-1104,2026-10-27,10:50,"Aloo Paratha",2,50.00,picked_up,100
+TT-1105,2026-10-27,10:50,"Rajma Chawal",1,80.00,picked_up,80
+TT-1106,2026-10-27,10:50,"Samosa (2 pc)",1,30.00,picked_up,30
+TT-1107,2026-10-27,10:50,"Chole Bhature",1,90.00,picked_up,90
+TT-1108,2026-10-27,10:50,"Chole Bhature",1,90.00,picked_up,90
+TT-1109,2026-10-27,10:50,"Veg Thali",2,120.00,picked_up,240
+TT-1110,2026-10-27,10:50,"Chole Bhature",1,90.00,picked_up,90
+TT-1111,2026-10-27,10:50,"Poha",2,35.00,picked_up,70
+TT-1112,2026-10-27,10:50,"Veg Thali",2,120.00,picked_up,240
+TT-1113,2026-10-27,10:50,"Veg Thali",2,120.00,picked_up,240
+TT-1114,2026-10-27,10:50,"Aloo Paratha",1,50.00,picked_up,50
+TT-1115,2026-10-27,10:50,"Veg Biryani",1,110.00,picked_up,110
+TT-1116,2026-10-27,10:50,"Aloo Paratha",1,50.00,picked_up,50
+TT-1117,2026-10-27,10:50,"Masala Dosa",2,65.00,picked_up,130
+TT-1118,2026-10-27,10:50,"Chole Bhature",1,90.00,picked_up,90
+TT-1119,2026-10-27,10:50,"Chai",2,15.00,picked_up,30
+TT-1120,2026-10-27,10:50,"Poha",2,35.00,picked_up,70
+TT-1121,2026-10-27,10:50,"Aloo Paratha",2,50.00,picked_up,100
+TT-1122,2026-10-27,10:50,"Aloo Paratha",2,50.00,picked_up,100
+TT-1123,2026-10-27,10:50,"Veg Biryani",1,110.00,picked_up,110
+TT-1124,2026-10-27,11:40,"Samosa (2 pc)",1,30.00,picked_up,30
+TT-1125,2026-10-27,11:40,"Masala Dosa",1,65.00,picked_up,65
+TT-1126,2026-10-27,11:40,"Masala Dosa",1,65.00,picked_up,65
+TT-1127,2026-10-27,11:40,"Poha",1,35.00,picked_up,35
+TT-1128,2026-10-27,11:40,"Samosa (2 pc)",1,30.00,picked_up,30
+TT-1129,2026-10-27,11:40,"Veg Biryani",2,110.00,picked_up,220
+TT-1130,2026-10-27,11:40,"Samosa (2 pc)",1,30.00,picked_up,30
+TT-1131,2026-10-27,11:40,"Veg Biryani",1,110.00,picked_up,110
+TT-1132,2026-10-27,11:40,"Veg Biryani",2,110.00,picked_up,220
+TT-1133,2026-10-27,11:40,"Veg Biryani",2,110.00,picked_up,220
+TT-1134,2026-10-27,11:40,"Poha",2,35.00,picked_up,70
+TT-1135,2026-10-27,11:40,"Veg Thali",2,120.00,picked_up,240
+TT-1136,2026-10-27,11:40,"Masala Dosa",2,65.00,picked_up,130
+TT-1137,2026-10-27,11:40,"Rajma Chawal",2,80.00,picked_up,160
+TT-1138,2026-10-27,11:40,"Samosa (2 pc)",2,30.00,picked_up,60
+TT-1139,2026-10-27,11:40,"Veg Thali",2,120.00,picked_up,240
+TT-1140,2026-10-27,12:00,"Masala Dosa",2,65.00,picked_up,130
+TT-1141,2026-10-27,12:00,"Aloo Paratha",1,50.00,picked_up,50
+TT-1142,2026-10-27,12:00,"Paneer Roll",1,70.00,picked_up,70
+TT-1143,2026-10-27,12:00,"Paneer Roll",2,70.00,picked_up,140
+TT-1144,2026-10-27,12:00,"Masala Dosa",1,65.00,picked_up,65
+TT-1145,2026-10-27,12:00,"Veg Biryani",1,110.00,picked_up,110
+TT-1146,2026-10-27,12:00,"Aloo Paratha",2,50.00,picked_up,100
+TT-1147,2026-10-27,12:00,"Rajma Chawal",2,80.00,picked_up,160
+TT-1148,2026-10-27,12:00,"Samosa (2 pc)",2,30.00,picked_up,60
+TT-1149,2026-10-27,12:00,"Masala Dosa",2,65.00,picked_up,130
+TT-1150,2026-10-27,12:00,"Samosa (2 pc)",1,30.00,picked_up,30
+TT-1151,2026-10-27,12:00,"Paneer Roll",2,70.00,picked_up,140
+TT-1152,2026-10-27,12:00,"Poha",1,35.00,picked_up,35
+TT-1153,2026-10-27,12:00,"Poha",1,35.00,picked_up,35
+TT-1154,2026-10-27,12:50,"Veg Thali",1,120.00,picked_up,120
+TT-1155,2026-10-27,12:50,"Veg Thali",2,120.00,picked_up,240
+TT-1156,2026-10-27,12:50,"Paneer Roll",1,70.00,picked_up,70
+TT-1157,2026-10-27,12:50,"Poha",1,35.00,picked_up,35
+TT-1158,2026-10-27,12:50,"Masala Dosa",2,65.00,picked_up,130
+TT-1159,2026-10-27,12:50,"Veg Biryani",1,110.00,picked_up,110
+TT-1160,2026-10-27,12:50,"Chole Bhature",1,90.00,picked_up,90
+TT-1161,2026-10-27,12:50,"Veg Thali",2,120.00,picked_up,240
+TT-1162,2026-10-27,12:50,"Masala Dosa",1,65.00,picked_up,65
+TT-1163,2026-10-27,12:50,"Veg Biryani",2,110.00,picked_up,220
+TT-1164,2026-10-27,12:50,"Samosa (2 pc)",1,30.00,picked_up,30
+TT-1165,2026-10-27,12:50,"Poha",1,35.00,picked_up,35
+TT-1166,2026-10-27,12:50,"Masala Dosa",2,65.00,picked_up,130
+TT-1167,2026-10-27,13:00,"Chai",1,15.00,picked_up,15
+TT-1168,2026-10-27,13:00,"Aloo Paratha",2,50.00,picked_up,100
+TT-1169,2026-10-27,13:00,"Masala Dosa",1,65.00,picked_up,65
+TT-1170,2026-10-27,13:00,"Paneer Roll",1,70.00,picked_up,70
+TT-1171,2026-10-27,13:00,"Masala Dosa",1,65.00,picked_up,65
+TT-1172,2026-10-27,13:00,"Poha",2,35.00,picked_up,70
+TT-1173,2026-10-27,13:00,"Chai",1,15.00,picked_up,15
+TT-1174,2026-10-27,13:00,"Veg Biryani",2,110.00,picked_up,220
+TT-1175,2026-10-27,13:00,"Aloo Paratha",1,50.00,picked_up,50
+TT-1176,2026-10-27,13:00,"Paneer Roll",2,70.00,picked_up,140
+TT-1177,2026-10-27,13:00,"Veg Biryani",1,110.00,picked_up,110
+TT-1178,2026-10-27,13:00,"Chai",1,15.00,picked_up,15
+TT-1179,2026-10-27,13:00,"Veg Biryani",1,110.00,picked_up,110
+TT-1180,2026-10-27,13:00,"Rajma Chawal",2,80.00,picked_up,160
+TT-1181,2026-10-27,13:00,"Masala Dosa",1,65.00,picked_up,65
+TT-1182,2026-10-27,13:00,"Veg Biryani",1,110.00,picked_up,110
+TT-1183,2026-10-27,13:00,"Veg Biryani",2,110.00,picked_up,220
+TT-1184,2026-10-27,13:00,"Poha",2,35.00,picked_up,70
+TT-1185,2026-10-27,13:00,"Chai",1,15.00,picked_up,15
+TT-1186,2026-10-27,13:00,"Veg Thali",2,120.00,picked_up,240
+TT-1187,2026-10-27,13:50,"Paneer Roll",2,70.00,picked_up,140
+TT-1188,2026-10-27,13:50,"Chai",1,15.00,picked_up,15
+TT-1189,2026-10-27,13:50,"Masala Dosa",1,65.00,picked_up,65
+TT-1190,2026-10-27,13:50,"Samosa (2 pc)",2,30.00,picked_up,60
+TT-1191,2026-10-27,13:50,"Masala Dosa",2,65.00,picked_up,130
+TT-1192,2026-10-27,13:50,"Masala Dosa",2,65.00,picked_up,130
+TT-1193,2026-10-27,13:50,"Rajma Chawal",2,80.00,picked_up,160
+TT-1194,2026-10-27,13:50,"Veg Biryani",2,110.00,picked_up,220
+TT-1195,2026-10-27,13:50,"Paneer Roll",2,70.00,picked_up,140
+TT-1196,2026-10-27,13:50,"Veg Thali",1,120.00,picked_up,120
+TT-1197,2026-10-27,13:50,"Masala Dosa",2,65.00,picked_up,130
+TT-1198,2026-10-27,13:50,"Chole Bhature",1,90.00,picked_up,90
+TT-1199,2026-10-27,14:20,"Samosa (2 pc)",2,30.00,picked_up,60
+TT-1200,2026-10-27,14:20,"Samosa (2 pc)",2,30.00,picked_up,60
+TT-1201,2026-10-27,14:20,"Rajma Chawal",1,80.00,picked_up,80
+TT-1202,2026-10-27,14:20,"Veg Biryani",2,110.00,picked_up,220
+TT-1203,2026-10-27,14:20,"Veg Thali",2,120.00,picked_up,240
+TT-1204,2026-10-27,14:20,"Rajma Chawal",2,80.00,picked_up,160
+TT-1205,2026-10-27,14:20,"Samosa (2 pc)",1,30.00,picked_up,30
+TT-1206,2026-10-27,14:20,"Aloo Paratha",1,50.00,picked_up,50
+TT-1207,2026-10-27,14:20,"Chole Bhature",1,90.00,picked_up,90
+TT-1208,2026-10-27,14:20,"Veg Thali",1,120.00,picked_up,120
+TT-1209,2026-10-27,14:20,"Chole Bhature",2,90.00,picked_up,180
+TT-1210,2026-10-27,14:20,"Masala Dosa",1,65.00,picked_up,65
+TT-1211,2026-10-27,14:20,"Aloo Paratha",1,50.00,picked_up,50
+TT-1212,2026-10-27,14:20,"Aloo Paratha",1,50.00,picked_up,50
+TT-1213,2026-10-27,14:20,"Samosa (2 pc)",2,30.00,picked_up,60
+TT-1214,2026-10-27,14:20,"Poha",1,35.00,picked_up,35
+TT-1215,2026-10-27,14:20,"Chole Bhature",1,90.00,picked_up,90
+TT-1216,2026-10-28,10:50,"Rajma Chawal",2,80.00,picked_up,160
+TT-1217,2026-10-28,10:50,"Veg Thali",2,120.00,picked_up,240
+TT-1218,2026-10-28,10:50,"Aloo Paratha",1,50.00,picked_up,50
+TT-1219,2026-10-28,10:50,"Aloo Paratha",2,50.00,picked_up,100
+TT-1220,2026-10-28,10:50,"Paneer Roll",2,70.00,picked_up,140
+TT-1221,2026-10-28,10:50,"Chole Bhature",2,90.00,picked_up,180
+TT-1222,2026-10-28,10:50,"Poha",2,35.00,picked_up,70
+TT-1223,2026-10-28,10:50,"Masala Dosa",2,65.00,picked_up,130
+TT-1224,2026-10-28,10:50,"Chai",1,15.00,picked_up,15
+TT-1225,2026-10-28,11:40,"Chole Bhature",1,90.00,picked_up,90
+TT-1226,2026-10-28,11:40,"Veg Thali",2,120.00,picked_up,240
+TT-1227,2026-10-28,11:40,"Chole Bhature",2,90.00,picked_up,180
+TT-1228,2026-10-28,11:40,"Aloo Paratha",2,50.00,picked_up,100
+TT-1229,2026-10-28,11:40,"Samosa (2 pc)",2,30.00,picked_up,60
+TT-1230,2026-10-28,11:40,"Samosa (2 pc)",2,30.00,picked_up,60
+TT-1231,2026-10-28,11:40,"Samosa (2 pc)",2,30.00,picked_up,60
+TT-1232,2026-10-28,11:40,"Veg Thali",1,120.00,picked_up,120
+TT-1233,2026-10-28,11:40,"Chole Bhature",1,90.00,picked_up,90
+TT-1234,2026-10-28,11:40,"Paneer Roll",1,70.00,picked_up,70
+TT-1235,2026-10-28,11:40,"Veg Biryani",2,110.00,picked_up,220
+TT-1236,2026-10-28,11:40,"Samosa (2 pc)",2,30.00,picked_up,60
+TT-1237,2026-10-28,12:00,"Veg Thali",1,120.00,picked_up,120
+TT-1238,2026-10-28,12:00,"Veg Thali",2,120.00,picked_up,240
+TT-1239,2026-10-28,12:00,"Chole Bhature",2,90.00,picked_up,180
+TT-1240,2026-10-28,12:00,"Chole Bhature",2,90.00,picked_up,180
+TT-1241,2026-10-28,12:00,"Chole Bhature",2,90.00,picked_up,180
+TT-1242,2026-10-28,12:00,"Veg Thali",2,120.00,picked_up,240
+TT-1243,2026-10-28,12:00,"Chole Bhature",1,90.00,picked_up,90
+TT-1244,2026-10-28,12:00,"Chai",1,15.00,picked_up,15
+TT-1245,2026-10-28,12:00,"Poha",2,35.00,picked_up,70
+TT-1246,2026-10-28,12:00,"Aloo Paratha",1,50.00,picked_up,50
+TT-1247,2026-10-28,12:00,"Chai",1,15.00,picked_up,15
+TT-1248,2026-10-28,12:00,"Paneer Roll",2,70.00,picked_up,140
+TT-1249,2026-10-28,12:00,"Masala Dosa",2,65.00,picked_up,130
+TT-1250,2026-10-28,12:00,"Masala Dosa",2,65.00,picked_up,130
+TT-1251,2026-10-28,12:00,"Poha",2,35.00,picked_up,70
+TT-1252,2026-10-28,12:00,"Poha",1,35.00,picked_up,35
+TT-1253,2026-10-28,12:50,"Rajma Chawal",1,80.00,picked_up,80
+TT-1254,2026-10-28,12:50,"Veg Biryani",2,110.00,picked_up,220
+TT-1255,2026-10-28,12:50,"Chole Bhature",1,90.00,picked_up,90
+TT-1256,2026-10-28,12:50,"Veg Thali",2,120.00,picked_up,240
+TT-1257,2026-10-28,12:50,"Poha",2,35.00,picked_up,70
+TT-1258,2026-10-28,12:50,"Chai",2,15.00,picked_up,30
+TT-1259,2026-10-28,12:50,"Chai",2,15.00,picked_up,30
+TT-1260,2026-10-28,12:50,"Masala Dosa",2,65.00,picked_up,130
+TT-1261,2026-10-28,12:50,"Veg Biryani",2,110.00,picked_up,220
+TT-1262,2026-10-28,12:50,"Masala Dosa",2,65.00,picked_up,130
+TT-1263,2026-10-28,12:50,"Veg Thali",2,120.00,picked_up,240
+TT-1264,2026-10-28,12:50,"Aloo Paratha",2,50.00,picked_up,100
+TT-1265,2026-10-28,12:50,"Masala Dosa",2,65.00,picked_up,130
+TT-1266,2026-10-28,13:00,"Masala Dosa",1,65.00,picked_up,65
+TT-1267,2026-10-28,13:00,"Chai",1,15.00,picked_up,15
+TT-1268,2026-10-28,13:00,"Paneer Roll",1,70.00,picked_up,70
+TT-1269,2026-10-28,13:00,"Samosa (2 pc)",2,30.00,picked_up,60
+TT-1270,2026-10-28,13:00,"Veg Biryani",1,110.00,picked_up,110
+TT-1271,2026-10-28,13:00,"Samosa (2 pc)",1,30.00,picked_up,30
+TT-1272,2026-10-28,13:00,"Veg Thali",2,120.00,picked_up,240
+TT-1273,2026-10-28,13:00,"Poha",2,35.00,picked_up,70
+TT-1274,2026-10-28,13:00,"Chai",1,15.00,picked_up,15
+TT-1275,2026-10-28,13:00,"Poha",2,35.00,picked_up,70
+TT-1276,2026-10-28,13:00,"Chai",1,15.00,picked_up,15
+TT-1277,2026-10-28,13:50,"Masala Dosa",1,65.00,picked_up,65
+TT-1278,2026-10-28,13:50,"Samosa (2 pc)",2,30.00,picked_up,60
+TT-1279,2026-10-28,13:50,"Paneer Roll",2,70.00,picked_up,140
+TT-1280,2026-10-28,13:50,"Masala Dosa",1,65.00,picked_up,65
+TT-1281,2026-10-28,13:50,"Aloo Paratha",2,50.00,picked_up,100
+TT-1282,2026-10-28,13:50,"Veg Biryani",1,110.00,picked_up,110
+TT-1283,2026-10-28,13:50,"Chai",2,15.00,picked_up,30
+TT-1284,2026-10-28,13:50,"Masala Dosa",2,65.00,picked_up,130
+TT-1285,2026-10-28,13:50,"Poha",2,35.00,picked_up,70
+TT-1286,2026-10-28,13:50,"Poha",2,35.00,picked_up,70
+TT-1287,2026-10-28,13:50,"Aloo Paratha",2,50.00,picked_up,100
+TT-1288,2026-10-28,13:50,"Rajma Chawal",2,80.00,picked_up,160
+TT-1289,2026-10-28,13:50,"Chai",1,15.00,picked_up,15
+TT-1290,2026-10-28,13:50,"Veg Biryani",1,110.00,picked_up,110
+TT-1291,2026-10-28,13:50,"Masala Dosa",2,65.00,picked_up,130
+TT-1292,2026-10-28,13:50,"Paneer Roll",2,70.00,picked_up,140
+TT-1293,2026-10-28,13:50,"Poha",1,35.00,picked_up,35
+TT-1294,2026-10-28,13:50,"Chole Bhature",2,90.00,picked_up,180
+TT-1295,2026-10-28,13:50,"Aloo Paratha",2,50.00,picked_up,100
+TT-1296,2026-10-28,14:20,"Paneer Roll",2,70.00,picked_up,140
+TT-1297,2026-10-28,14:20,"Aloo Paratha",2,50.00,picked_up,100
+TT-1298,2026-10-28,14:20,"Samosa (2 pc)",1,30.00,picked_up,30
+TT-1299,2026-10-28,14:20,"Chai",2,15.00,picked_up,30
+TT-1300,2026-10-28,14:20,"Samosa (2 pc)",1,30.00,picked_up,30
+TT-1301,2026-10-28,14:20,"Chole Bhature",1,90.00,picked_up,90
+TT-1302,2026-10-28,14:20,"Masala Dosa",1,65.00,picked_up,65
+TT-1303,2026-10-28,14:20,"Samosa (2 pc)",1,30.00,picked_up,30
+TT-1304,2026-10-28,14:20,"Masala Dosa",2,65.00,picked_up,130
+TT-1305,2026-10-28,14:20,"Veg Biryani",1,110.00,picked_up,110
+TT-1306,2026-10-28,14:20,"Veg Biryani",2,110.00,picked_up,220
+TT-1307,2026-10-28,14:20,"Chole Bhature",2,90.00,picked_up,180
+TT-1308,2026-10-28,14:20,"Veg Thali",1,120.00,picked_up,120
+TT-1309,2026-10-28,14:20,"Aloo Paratha",2,50.00,picked_up,100
+TT-1310,2026-10-28,14:20,"Rajma Chawal",1,80.00,picked_up,80
+TT-1311,2026-10-28,14:20,"Veg Biryani",2,110.00,picked_up,220
+TT-1312,2026-10-28,14:20,"Chai",1,15.00,picked_up,15
+TT-1313,2026-10-28,14:20,"Chai",2,15.00,picked_up,30
+TT-1314,2026-10-29,12:50,"Poha",2,35.00,ready,70
+TT-1315,2026-10-29,12:50,"Chole Bhature",2,90.00,ready,180
+TT-1316,2026-10-29,12:50,"Poha",1,35.00,ready,35
+TT-1317,2026-10-29,12:50,"Veg Biryani",2,110.00,ready,220
+TT-1318,2026-10-29,12:50,"Chole Bhature",1,90.00,ready,90
+TT-1319,2026-10-29,12:50,"Masala Dosa",1,65.00,preparing,65
+TT-1320,2026-10-29,12:50,"Chole Bhature",2,90.00,preparing,180
+TT-1321,2026-10-29,12:50,"Samosa (2 pc)",2,30.00,preparing,60
+TT-1322,2026-10-29,12:50,"Paneer Roll",1,70.00,preparing,70
+TT-1323,2026-10-29,12:50,"Samosa (2 pc)",1,30.00,preparing,30
+TT-1324,2026-10-29,12:50,"Rajma Chawal",1,80.00,preparing,80
+TT-1325,2026-10-29,12:50,"Veg Biryani",1,110.00,preparing,110
+TT-1326,2026-10-29,12:50,"Veg Thali",2,120.00,preparing,240
+TT-1327,2026-10-29,12:50,"Samosa (2 pc)",2,30.00,preparing,60
+TT-1328,2026-10-29,12:50,"Veg Thali",2,120.00,preparing,240
+TT-1329,2026-10-29,12:50,"Veg Thali",1,120.00,placed,120
+TT-1330,2026-10-29,12:50,"Poha",2,35.00,placed,70
+TT-1331,2026-10-29,12:50,"Paneer Roll",1,70.00,placed,70
+TT-1332,2026-10-29,12:50,"Rajma Chawal",2,80.00,placed,160
+TT-1333,2026-10-29,12:50,"Poha",2,35.00,placed,70
+TT-1334,2026-10-29,12:50,"Samosa (2 pc)",1,30.00,placed,30
+TT-1335,2026-10-29,12:50,"Veg Biryani",1,110.00,placed,110
+TT-1336,2026-10-29,12:50,"Veg Biryani",2,110.00,placed,220
+TT-1337,2026-10-29,12:50,"Aloo Paratha",2,50.00,placed,100
+TT-1338,2026-10-29,12:50,"Veg Thali",1,120.00,placed,120
+TT-1339,2026-10-29,12:50,"Paneer Roll",1,70.00,placed,70
+TT-1340,2026-10-29,12:50,"Veg Biryani",1,110.00,placed,110
+TT-1341,2026-10-29,12:50,"Chole Bhature",2,90.00,placed,180
+TT-1342,2026-10-29,12:50,"Poha",2,35.00,placed,70
+TT-1343,2026-10-29,12:50,"Poha",1,35.00,placed,35
+TT-1344,2026-10-29,12:50,"Paneer Roll",2,70.00,placed,140
+TT-1345,2026-10-29,12:50,"Rajma Chawal",1,80.00,placed,80
+TT-1346,2026-10-29,12:50,"Samosa (2 pc)",2,30.00,placed,60
+TT-1347,2026-10-29,12:50,"Chole Bhature",2,90.00,placed,180
+TT-1348,2026-10-29,12:50,"Chai",2,15.00,placed,30
+TT-1349,2026-10-29,12:50,"Chole Bhature",2,90.00,placed,180
+TT-1350,2026-10-29,12:50,"Veg Biryani",2,110.00,placed,220
+TT-1351,2026-10-29,12:50,"Samosa (2 pc)",1,30.00,placed,30
+TT-1352,2026-10-29,12:50,"Poha",1,35.00,placed,35
+TT-1353,2026-10-29,12:50,"Chole Bhature",2,90.00,placed,180
+TT-1354,2026-10-29,12:50,"Samosa (2 pc)",1,30.00,placed,30
+TT-1355,2026-10-29,12:50,"Chole Bhature",2,90.00,placed,180
+TT-1356,2026-10-29,12:50,"Samosa (2 pc)",2,30.00,placed,60
+TT-1357,2026-10-29,12:50,"Chole Bhature",2,90.00,placed,180
+TT-1358,2026-10-29,12:50,"Poha",1,35.00,placed,35
+TT-1359,2026-10-29,12:50,"Paneer Roll",1,70.00,placed,70
+TT-1360,2026-10-29,12:50,"Aloo Paratha",2,50.00,placed,100
+TT-1361,2026-10-29,12:50,"Rajma Chawal",1,80.00,placed,80
+TT-1362,2026-10-29,12:50,"Chai",1,15.00,placed,15
+TT-1363,2026-10-29,12:50,"Veg Thali",2,120.00,placed,240
+TT-1364,2026-10-29,12:50,"Paneer Roll",1,70.00,placed,70
+TT-1365,2026-10-29,12:50,"Chai",2,15.00,placed,30
+TT-1366,2026-10-29,12:50,"Paneer Roll",1,70.00,placed,70
+TT-1367,2026-10-29,12:50,"Chole Bhature",1,90.00,placed,90
+TT-1368,2026-10-29,12:50,"Chai",2,15.00,placed,30
+TT-1369,2026-10-29,12:50,"Samosa (2 pc)",2,30.00,placed,60
+TT-1370,2026-10-29,12:50,"Samosa (2 pc)",1,30.00,placed,30
+TT-1371,2026-10-29,12:50,"Veg Thali",1,120.00,placed,120
+TT-1372,2026-10-29,12:50,"Aloo Paratha",1,50.00,placed,50
+TT-1373,2026-10-29,12:50,"Paneer Roll",1,70.00,placed,70
+TT-1374,2026-10-29,12:50,"Chole Bhature",1,90.00,placed,90
+TT-1375,2026-10-29,12:50,"Veg Thali",2,120.00,placed,240
+TT-1376,2026-10-29,12:50,"Veg Thali",2,120.00,placed,240
+TT-1377,2026-10-29,12:50,"Veg Biryani",2,110.00,placed,220
+TT-1378,2026-10-29,10:50,"Samosa (2 pc)",2,30.00,ready,60
+TT-1379,2026-10-29,10:50,"Veg Thali",1,120.00,ready,120
+TT-1380,2026-10-29,10:50,"Chole Bhature",1,90.00,ready,90
+TT-1381,2026-10-29,10:50,"Veg Thali",1,120.00,ready,120
+TT-1382,2026-10-29,10:50,"Aloo Paratha",1,50.00,ready,50
+TT-1383,2026-10-29,10:50,"Rajma Chawal",2,80.00,preparing,160
+TT-1384,2026-10-29,10:50,"Veg Thali",2,120.00,preparing,240
+TT-1385,2026-10-29,10:50,"Veg Thali",1,120.00,preparing,120
+TT-1386,2026-10-29,10:50,"Veg Thali",1,120.00,preparing,120
+TT-1387,2026-10-29,10:50,"Masala Dosa",2,65.00,preparing,130
+TT-1388,2026-10-29,10:50,"Chole Bhature",1,90.00,preparing,90
+TT-1389,2026-10-29,10:50,"Chai",1,15.00,preparing,15
+TT-1390,2026-10-29,10:50,"Veg Thali",2,120.00,preparing,240
+TT-1391,2026-10-29,10:50,"Poha",2,35.00,preparing,70
+TT-1392,2026-10-29,10:50,"Rajma Chawal",2,80.00,preparing,160
+TT-1393,2026-10-29,10:50,"Masala Dosa",1,65.00,placed,65
+TT-1394,2026-10-29,10:50,"Veg Biryani",2,110.00,placed,220
+TT-1395,2026-10-29,10:50,"Veg Thali",2,120.00,placed,240
+TT-1396,2026-10-29,13:50,"Samosa (2 pc)",1,30.00,ready,30
+TT-1397,2026-10-29,13:50,"Paneer Roll",2,70.00,ready,140
+TT-1398,2026-10-29,13:50,"Masala Dosa",2,65.00,ready,130
+TT-1399,2026-10-29,13:50,"Veg Biryani",1,110.00,ready,110
+TT-1400,2026-10-29,13:50,"Samosa (2 pc)",2,30.00,ready,60
+TT-1401,2026-10-29,13:50,"Samosa (2 pc)",2,30.00,preparing,60
+TT-1402,2026-10-29,13:50,"Masala Dosa",1,65.00,preparing,65
+TT-1403,2026-10-29,13:50,"Chai",2,15.00,preparing,30
+TT-1404,2026-10-29,13:50,"Samosa (2 pc)",2,30.00,preparing,60
+TT-1405,2026-10-29,13:50,"Rajma Chawal",1,80.00,preparing,80
+TT-1406,2026-10-29,13:50,"Chole Bhature",2,90.00,preparing,180
+TT-1407,2026-10-29,13:50,"Chai",1,15.00,preparing,15
+TT-1408,2026-10-29,13:50,"Aloo Paratha",1,50.00,preparing,50
+TT-1409,2026-10-29,13:50,"Rajma Chawal",1,80.00,preparing,80
+TT-1410,2026-10-29,13:50,"Veg Biryani",2,110.00,preparing,220
+TT-1411,2026-10-29,13:50,"Masala Dosa",2,65.00,placed,130
+TT-1412,2026-10-29,13:50,"Samosa (2 pc)",1,30.00,placed,30
+TT-1413,2026-10-29,13:50,"Veg Biryani",2,110.00,placed,220
+TT-1414,2026-10-29,13:50,"Poha",2,35.00,placed,70
+TT-1415,2026-10-29,13:50,"Rajma Chawal",2,80.00,placed,160
+TT-1416,2026-10-29,13:50,"Poha",1,35.00,placed,35
+TT-1417,2026-10-29,13:50,"Masala Dosa",2,65.00,placed,130
+TT-1418,2026-10-29,13:50,"Chole Bhature",2,90.00,placed,180
+TT-1419,2026-10-29,13:50,"Poha",1,35.00,placed,35

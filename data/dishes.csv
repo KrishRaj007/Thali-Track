@@ -1,0 +1,11 @@
+id,name,price,veg,avg_portion_weight_kg,daily_capacity
+1,"Rajma Chawal",80.00,true,0.380,120
+2,"Chole Bhature",90.00,true,0.400,110
+3,"Veg Biryani",110.00,true,0.350,90
+4,"Paneer Roll",70.00,true,0.220,80
+5,"Masala Dosa",65.00,true,0.280,100
+6,"Samosa (2 pc)",30.00,true,0.160,150
+7,"Poha",35.00,true,0.200,100
+8,"Aloo Paratha",50.00,true,0.250,90
+9,"Veg Thali",120.00,true,0.500,80
+10,"Chai",15.00,true,0.150,200
